@@ -1,4 +1,4 @@
-module gitlab.inspir.work/HanYiming/cloud-go-sdk
+module github.com/whioue/cloud-go-sdk
 
 go 1.18
 

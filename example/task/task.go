@@ -3,9 +3,9 @@ package main
 import (
 	"context"
 	"fmt"
-	v1 "gitlab.inspir.work/HanYiming/cloud-go-sdk/api/v1"
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/cloudgo/service"
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/rest"
+	v1 "github.com/whioue/cloud-go-sdk/api/v1"
+	"github.com/whioue/cloud-go-sdk/cloudgo/service"
+	"github.com/whioue/cloud-go-sdk/rest"
 	"time"
 )
 

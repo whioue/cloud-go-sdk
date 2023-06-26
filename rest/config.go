@@ -2,11 +2,11 @@ package rest
 
 import (
 	"fmt"
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/pkg/runtime"
+	"github.com/whioue/cloud-go-sdk/pkg/runtime"
 	"net/http"
 	"time"
 
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/third_party/forked/gorequest"
+	"github.com/whioue/cloud-go-sdk/third_party/forked/gorequest"
 )
 
 type Config struct {

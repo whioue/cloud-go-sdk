@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	http2 "gitlab.inspir.work/HanYiming/cloud-go-sdk/pkg/http"
+	http2 "github.com/whioue/cloud-go-sdk/pkg/http"
 	"net/http"
 
 	"net/url"
@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/pkg/runtime"
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/third_party/forked/gorequest"
+	"github.com/whioue/cloud-go-sdk/pkg/runtime"
+	"github.com/whioue/cloud-go-sdk/third_party/forked/gorequest"
 )
 
 type Request struct {

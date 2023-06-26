@@ -3,7 +3,7 @@ package runtime
 import (
 	"fmt"
 
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/pkg/json"
+	"github.com/whioue/cloud-go-sdk/pkg/json"
 )
 
 // NegotiateError is returned when a ClientNegotiator is unable to locate

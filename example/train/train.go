@@ -1,8 +1,8 @@
 package main
 
 import (
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/cloudgo/service"
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/rest"
+	"github.com/whioue/cloud-go-sdk/cloudgo/service"
+	"github.com/whioue/cloud-go-sdk/rest"
 	"time"
 )
 

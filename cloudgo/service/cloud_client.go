@@ -1,8 +1,8 @@
 package service
 
 import (
-	v1 "gitlab.inspir.work/HanYiming/cloud-go-sdk/cloudgo/service/v1"
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/rest"
+	v1 "github.com/whioue/cloud-go-sdk/cloudgo/service/v1"
+	"github.com/whioue/cloud-go-sdk/rest"
 )
 
 type ICloud interface {

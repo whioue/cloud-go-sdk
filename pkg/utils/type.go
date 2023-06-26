@@ -1,6 +1,6 @@
 package utils
 
-import "gitlab.inspir.work/HanYiming/cloud-go-sdk/pkg/json"
+import "github.com/whioue/cloud-go-sdk/pkg/json"
 
 type MapStringInterface map[string]string
 

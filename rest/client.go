@@ -4,8 +4,8 @@ import (
 	"net/url"
 	"strings"
 
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/pkg/runtime"
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/third_party/forked/gorequest"
+	"github.com/whioue/cloud-go-sdk/pkg/runtime"
+	"github.com/whioue/cloud-go-sdk/third_party/forked/gorequest"
 )
 
 // Interface captures the set of operations for generically interacting with IAM REST apis.

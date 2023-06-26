@@ -3,8 +3,8 @@ package v1
 import (
 	"context"
 	"encoding/json"
-	v1 "gitlab.inspir.work/HanYiming/cloud-go-sdk/api/v1"
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/rest"
+	v1 "github.com/whioue/cloud-go-sdk/api/v1"
+	"github.com/whioue/cloud-go-sdk/rest"
 )
 
 var _ ITask = &task{}

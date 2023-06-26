@@ -1,8 +1,8 @@
 package v1
 
 import (
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/pkg/runtime"
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/rest"
+	"github.com/whioue/cloud-go-sdk/pkg/runtime"
+	"github.com/whioue/cloud-go-sdk/rest"
 )
 
 type IApiV1 interface {

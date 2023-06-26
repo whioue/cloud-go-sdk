@@ -2,9 +2,9 @@ package v1
 
 import (
 	"context"
-	v1 "gitlab.inspir.work/HanYiming/cloud-go-sdk/api/v1"
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/pkg/json"
-	"gitlab.inspir.work/HanYiming/cloud-go-sdk/rest"
+	v1 "github.com/whioue/cloud-go-sdk/api/v1"
+	"github.com/whioue/cloud-go-sdk/pkg/json"
+	"github.com/whioue/cloud-go-sdk/rest"
 )
 
 type ModelGetter interface {
